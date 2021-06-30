@@ -5,7 +5,7 @@ static const char *font_pattern = "Hermit:size=10";
 static const unsigned line_spacing = 5;
 static const unsigned int padding = 10;
 
-static const unsigned int width = 388;
+static const unsigned int width = 300;
 static const unsigned int border_size = 0;
 static const unsigned int pos_x = 0;
 static const unsigned int pos_y = 0;
